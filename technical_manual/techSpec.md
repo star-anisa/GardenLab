@@ -285,7 +285,7 @@ The following sources were used as references  for different parts of the projec
 
 ### Code for plantuml diagrams
 
-Use case Diagram
+```Use case Diagram
 
 @startuml
 left to right direction
@@ -431,5 +431,4 @@ deactivate gl
 
 
 
-@enduml
-
+@enduml ```
