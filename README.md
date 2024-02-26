@@ -2,13 +2,13 @@
 
 
 ## Name
-Garden web-app.
+GardenLab.
 
 ## Description
-Gives users information on how to optimise their garden/gardening.
-- weather alerts.
-- best area to plant certain plant, ie shaded area, beside compatable plant.
-- plant monitoring recommendations, is it diseased, should you move.
+Gives users information on how to optimise their garden
+- Virtual garden planner
+- Plant identification tool
+- Plant welfare assessment tool
 
 ## Badges
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
