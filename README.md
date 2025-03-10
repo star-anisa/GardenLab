@@ -9,6 +9,9 @@ Gives users information on how to optimise their garden
 - Virtual garden planner
 - Plant identification tool
 - Plant welfare assessment tool
+Uses the kindwise plant.id API and the plant.health API
+https://www.kindwise.com/plant-id
+https://www.kindwise.com/plant-health 
 
 ## Badges
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
